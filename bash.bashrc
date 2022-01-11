@@ -26,8 +26,8 @@ echo "Beta version
                            lXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.
                            .XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXk
                             0XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXc
-                            /         \KXXXXXXXX/         \
-                        :    ██████       Π      ██████    :
+                            /          KXXXXXXXX          l
+                         :    ██████       Π      ██████    :
                         .X0l.         .d00000000,.        .;xXd
                         cXXXXXKOOO00XXXXXXXXXXXXXXXK0OOO0KXXXXK.
                         xXXXXXX     XXX     XX   XXXXX   XXXXXXX'
